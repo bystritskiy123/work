@@ -1,0 +1,10 @@
+#P1{
+ color:green;
+ font-style: oblique;
+ font-size:200%;    
+}
+#P2{
+ color:yellow;
+ font-size:300%;
+ font-style: unset;  
+}

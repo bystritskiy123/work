@@ -1,0 +1,43 @@
+/*text*/
+.none {
+  list-style-type: none;
+}
+
+.decoration {
+  text-decoration: none;
+}
+
+h1 span {
+  color: red;
+}
+
+.span {
+  color: blue;
+  font-style: bold;
+  font-size: 150%;
+}
+
+.first {
+  font-family: cursive;
+  font-style: italic;
+  font-size: 30px;
+  color: red;
+}
+
+.second {
+  font-family: fantasy;
+  font-style: normal;
+  font-size: 40px;
+  color: blueviolet;
+}
+
+.third {
+  font-family: inherit;
+  font-style: oblique;
+  font-size: 50px;
+  color: brown;
+}
+
+/*text*/
+
+/*# sourceMappingURL=index.css.map */
